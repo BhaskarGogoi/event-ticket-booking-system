@@ -1,0 +1,1 @@
+<?php echo "http://" . $_SERVER['SERVER_NAME'] . dirname($_SERVER['REQUEST_URI']) . $_SERVER['DOCUMENT_ROOT']; ?>
